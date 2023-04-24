@@ -27,7 +27,7 @@ documentation:
   how_it_works: |
       Shameless copy of TT02 "Customizable UART String" by J. Rosenthal, since getting started the day of the submission deadline is NOT a good idea.
       
-      This circuit implements five shift registers with 21 bits: seven idle bits, one start bit, eight data bits, one stop bit, and four more idle bits. The circuit supports transmitting the string "EDM!\n"
+      This circuit implements five shift registers with 21 bits: seven idle bits, one start bit, eight data bits, one stop bit, and four more idle bits. The circuit supports transmitting the string "EDM!"
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
   how_to_test:  |
